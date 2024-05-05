@@ -1,5 +1,11 @@
 {
   "Index": {
     "title": "Tervetuloa!"
+  },
+  "Navbar": {
+    "home": "Home",
+    "projects": "Project",
+    "about-us": "About us",
+    "contact": "Contact"
   }
 }
