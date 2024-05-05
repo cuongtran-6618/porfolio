@@ -1,0 +1,12 @@
+nav {
+    margin: 0 auto;
+}
+
+nav ul li {
+    text-transform: uppercase;
+    padding: var(--nav-items-padding);
+}
+
+nav ul li>a:hover {
+    opacity: 0.6;
+}

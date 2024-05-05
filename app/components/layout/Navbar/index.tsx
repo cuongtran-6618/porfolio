@@ -6,8 +6,8 @@ export default function Navbar() {
   const t = useTranslations("Navbar");
 
   return (
-    <nav>
-      <ul>
+    <nav className='flex-center'>
+      <ul className='flex-center'>
         <li><Link href='/'><span>{t("home")}</span></Link></li>
         <li><Link href='/projects'><span>{t("projects")}</span></Link></li>
         <li><Link href='/about-us'><span>{t("about-us")}</span></Link></li>
