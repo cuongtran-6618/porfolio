@@ -7,5 +7,14 @@
     "projects": "Projects",
     "about-us": "About us",
     "contact": "Contact"
+  },
+  "Footer": {
+    "sitemap": "Sitemap",
+    "home": "Home",
+    "projects": "Projects",
+    "about-us": "About us",
+    "contact": "Contact",
+    "follow": "Follow",
+    "copyright": "All rights reserved."
   }
 }
